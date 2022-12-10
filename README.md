@@ -10,7 +10,7 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - 🔭 I’m working as a Software Engineer.
 - 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- ⚡ In my free time I solve problems and read tech articles.
 
 ---
 
